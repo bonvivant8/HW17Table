@@ -1,0 +1,14 @@
+
+table{
+
+    display: flex;
+    justify-content: center;
+}
+tr{
+    padding: 10px;
+
+}
+td{
+    padding:20px;
+    border: 2px solid black;
+}
